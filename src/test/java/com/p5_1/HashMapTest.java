@@ -1,4 +1,4 @@
-package com.p51;
+package com.p5_1;
 
 import org.junit.Test;
 
